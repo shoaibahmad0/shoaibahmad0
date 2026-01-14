@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Shoaib
 
-🚀 **Machine Learning Engineer** | **Computer Vision** | **Camera Calibration** | **MLOps**  
-🎓 **Computer Science Graduate**
+🚀 **Machine Learning Engineer** | **Computer Vision** | **Deep Learning** | **MLOps**  
 
 ---
 
 ## 🔍 About Me
-- Working on **Computer Vision systems** with strong focus on **camera calibration, pose estimation, and 3D geometry**
+- Working on **AI/ML systems** with strong focus on ** Computer vision , NLP **
 - Building **binocular / stereo camera calibration pipelines using human pose (no chessboard)**
 - Experience in **ML model development, optimization, and deployment**
 - Background in **software engineering and applied AI projects**
+- Developed **Kidney Disease Classification Using Deep Learning**
 
 ---
 
@@ -51,6 +51,8 @@
 
 ### 📐 Mathematics for Vision
 - Linear Algebra
+- Probability, Statistics
+- Calculas
 - Projective Geometry
 - Multi-view Geometry
 - Optimization (Bundle Adjustment, Reprojection Error)
