@@ -1,19 +1,26 @@
 # 👋 Hi, I'm Shoaib
 
-🚀 Machine Learning Engineer | Computer Vision | Camera Calibration | MLOps  
-🎓 Computer Science Graduate  
+🚀 **Machine Learning Engineer** | **Computer Vision** | **Camera Calibration** | **MLOps**  
+🎓 **Computer Science Graduate**
 
 ---
 
 ## 🔍 About Me
-- I work on **Computer Vision systems** with a strong focus on **camera calibration, pose estimation, and 3D geometry**
-- Currently building **binocular / stereo camera calibration pipelines using human pose**
-- Hands-on experience in **ML model development, optimization, and deployment**
-- Industry experience through **internship and professional software engineering roles**
+- Working on **Computer Vision systems** with strong focus on **camera calibration, pose estimation, and 3D geometry**
+- Building **binocular / stereo camera calibration pipelines using human pose (no chessboard)**
+- Experience in **ML model development, optimization, and deployment**
+- Background in **software engineering and applied AI projects**
 
 ---
 
 ## 🛠️ Tech Stack
+
+### 🔥 Core Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,numpy,pandas,git,github,linux,docker" />
+</p>
+
+---
 
 ### 👁️ Computer Vision
 - OpenCV
@@ -23,6 +30,12 @@
 - Triangulation
 - Human Pose Estimation (MediaPipe / OpenPose-style)
 
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv,python" />
+</p>
+
+---
+
 ### 🤖 Machine Learning & Deep Learning
 - PyTorch
 - TensorFlow / TensorFlow Lite
@@ -30,11 +43,19 @@
 - NumPy
 - Pandas
 
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
+
+---
+
 ### 📐 Mathematics for Vision
 - Linear Algebra
 - Projective Geometry
-- Optimization (Bundle Adjustment, Reprojection Error)
 - Multi-view Geometry
+- Optimization (Bundle Adjustment, Reprojection Error)
+
+---
 
 ### ⚙️ MLOps & Engineering
 - Python
@@ -43,36 +64,5 @@
 - Modular ML Pipelines
 - Model Optimization & Inference
 
-### 📡 Cameras & Systems
-- RTSP Cameras
-- Multi-camera synchronization
-- Real-time video pipelines
-
----
-
-## 🧠 Current Projects
-
-### 🔹 Binocular Camera Calibration using Human Pose
-- Stereo calibration without chessboard
-- Joint optimization of intrinsics & extrinsics
-- Reprojection error minimization
-- 3D human joint triangulation
-
-**Tech:** OpenCV · NumPy · Python · Stereo Geometry
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-- 💼 LinkedIn: https:
-- 📧 Email: your.email@gmail.com
-
----
-
-⭐ *Always learning. Always building.*
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linu
