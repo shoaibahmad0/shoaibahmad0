@@ -5,7 +5,7 @@
 ---
 
 ## 🔍 About Me
-- Working on **AI/ML systems** with strong focus on ** Computer vision , NLP **
+- Working on **AI/ML systems** with strong focus on  Computer vision , NLP 
 - Building **binocular / stereo camera calibration pipelines using human pose (no chessboard)**
 - Experience in **ML model development, optimization, and deployment**
 - Background in **software engineering and applied AI projects**
