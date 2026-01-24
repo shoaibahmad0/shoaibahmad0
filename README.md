@@ -17,16 +17,15 @@
 
 ### 🔥 Core Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,numpy,pandas,git,github,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,numpy,pandas,git,github" />
 </p>
 
 ---
 
 ### 👁️ Computer Vision
 - OpenCV
-- Stereo Vision
 - Camera Calibration
-- Epipolar Geometry
+- Object Detection, Segmentation, Classification
 - Triangulation
 - Human Pose Estimation (MediaPipe / OpenPose-style)
 
